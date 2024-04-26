@@ -1,0 +1,140 @@
+2024/04/25 13:05:00 This is a log message.
+2024/04/25 13:05:00 Another log message.
+2024/04/25 13:07:34 This is a log message.
+2024/04/25 13:07:34 Another log message.
+INFO	2024/04/25 13:07:34 Starting server on :4000
+ERROR	2024/04/25 13:07:43 server.go:3212: http: TLS handshake error from [::1]:58580: remote error: tls: unknown certificate
+INFO	2024/04/25 13:07:43 [::1]:58581 - HTTP/2.0 GET /
+INFO	2024/04/25 13:07:44 [::1]:58581 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/25 13:07:44 [::1]:58581 - HTTP/2.0 GET /static/img/favicon.ico
+2024/04/25 13:11:10 
+---------------------------------
+
+INFO	2024/04/25 13:11:10 Starting server on :4000
+ERROR	2024/04/25 13:11:36 server.go:3212: http: TLS handshake error from [::1]:58613: remote error: tls: unknown certificate
+INFO	2024/04/25 13:11:36 [::1]:58614 - HTTP/2.0 GET /
+INFO	2024/04/25 13:11:37 [::1]:58614 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/25 13:11:37 [::1]:58614 - HTTP/2.0 GET /static/img/favicon.ico
+ERROR	2024/04/25 13:22:13 server.go:3212: http: TLS handshake error from [::1]:58719: remote error: tls: unknown certificate
+INFO	2024/04/25 13:22:13 [::1]:58720 - HTTP/2.0 GET /
+INFO	2024/04/25 13:22:14 [::1]:58720 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/25 13:22:17 [::1]:58720 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/25 13:22:17 [::1]:58720 - HTTP/2.0 GET /static/img/favicon.ico
+2024/04/25 13:22:35 
+
+---------------------------------
+
+INFO	2024/04/25 13:22:35 Starting server on :4000
+ERROR	2024/04/25 13:22:53 server.go:3212: http: TLS handshake error from [::1]:58730: remote error: tls: unknown certificate
+INFO	2024/04/25 13:22:53 [::1]:58731 - HTTP/2.0 GET /
+INFO	2024/04/25 13:22:54 [::1]:58731 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/25 13:22:54 [::1]:58731 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/25 13:22:54 [::1]:58731 - HTTP/2.0 GET /static/img/favicon.ico
+ERROR	2024/04/25 13:24:20 server.go:3212: http: TLS handshake error from [::1]:58736: remote error: tls: unknown certificate
+INFO	2024/04/25 13:24:20 [::1]:58737 - HTTP/2.0 GET /
+INFO	2024/04/25 13:24:21 [::1]:58737 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/25 13:24:21 [::1]:58737 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/25 13:24:21 [::1]:58737 - HTTP/2.0 GET /static/img/favicon.ico
+2024/04/25 13:34:13 
+
+---------------------------------
+
+INFO	2024/04/25 13:34:13 Starting server on :4000
+ERROR	2024/04/25 13:34:19 server.go:3212: http: TLS handshake error from [::1]:59037: remote error: tls: unknown certificate
+INFO	2024/04/25 13:34:19 [::1]:59038 - HTTP/2.0 GET /
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/img/logo.png
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/js/main.js
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/img/daniar.jpg
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/img/nursultan.jpg
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/img/temirlan.jpg
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/img/beauty_tools.jpg
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/img/beauty_pro.jpg
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/img/beauty_tech.jpg
+INFO	2024/04/25 13:34:20 [::1]:59038 - HTTP/2.0 GET /static/img/beauty_salon.jpg
+INFO	2024/04/25 13:34:21 [::1]:59038 - HTTP/2.0 GET /static/img/favicon.ico
+2024/04/25 13:35:14 
+
+---------------------------------
+
+INFO	2024/04/25 13:35:14 Starting server on :4000
+ERROR	2024/04/25 13:35:48 server.go:3212: http: TLS handshake error from [::1]:59080: remote error: tls: unknown certificate
+INFO	2024/04/25 13:35:48 [::1]:59081 - HTTP/2.0 GET /
+INFO	2024/04/25 13:35:49 [::1]:59081 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/25 13:35:49 [::1]:59081 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/25 13:35:59 [::1]:59081 - HTTP/2.0 GET /
+INFO	2024/04/25 13:36:00 [::1]:59081 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/25 13:36:00 [::1]:59081 - HTTP/2.0 GET /static/img/favicon.ico
+2024/04/25 13:49:56 
+
+---------------------------------
+
+INFO	2024/04/25 13:49:56 Starting server on :4000
+ERROR	2024/04/25 13:50:12 server.go:3212: http: TLS handshake error from [::1]:60935: remote error: tls: unknown certificate
+INFO	2024/04/25 13:50:12 [::1]:60936 - HTTP/2.0 GET /
+INFO	2024/04/25 13:50:14 [::1]:60936 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/25 13:50:14 [::1]:60936 - HTTP/2.0 GET /static/img/favicon.ico
+2024/04/25 14:01:17 
+
+---------------------------------
+
+INFO	2024/04/25 14:01:17 Starting server on :4000
+ERROR	2024/04/25 14:01:32 server.go:3212: http: TLS handshake error from [::1]:60616: remote error: tls: unknown certificate
+INFO	2024/04/25 14:01:32 [::1]:60617 - HTTP/2.0 GET /
+INFO	2024/04/25 14:01:33 [::1]:60617 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/25 14:01:39 [::1]:60617 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/25 14:01:39 [::1]:60617 - HTTP/2.0 GET /static/img/favicon.ico
+ERROR	2024/04/25 14:23:56 server.go:3212: http: TLS handshake error from [::1]:60281: remote error: tls: unknown certificate
+INFO	2024/04/25 14:23:56 [::1]:60283 - HTTP/2.0 GET /
+INFO	2024/04/25 14:23:57 [::1]:60283 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/25 14:23:57 [::1]:60283 - HTTP/2.0 GET /static/img/logo.png
+INFO	2024/04/25 14:23:57 [::1]:60283 - HTTP/2.0 GET /static/js/main.js
+INFO	2024/04/25 14:23:59 [::1]:60283 - HTTP/2.0 GET /static/img/daniar.jpg
+INFO	2024/04/25 14:23:59 [::1]:60283 - HTTP/2.0 GET /static/img/temirlan.jpg
+INFO	2024/04/25 14:23:59 [::1]:60283 - HTTP/2.0 GET /static/img/nursultan.jpg
+INFO	2024/04/25 14:23:59 [::1]:60283 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/25 14:23:59 [::1]:60283 - HTTP/2.0 GET /static/img/beauty_tools.jpg
+INFO	2024/04/25 14:23:59 [::1]:60283 - HTTP/2.0 GET /static/img/beauty_pro.jpg
+INFO	2024/04/25 14:23:59 [::1]:60283 - HTTP/2.0 GET /static/img/beauty_tech.jpg
+INFO	2024/04/25 14:23:59 [::1]:60283 - HTTP/2.0 GET /static/img/beauty_salon.jpg
+ERROR	2024/04/25 15:23:47 server.go:3212: http: TLS handshake error from [::1]:64245: remote error: tls: unknown certificate
+INFO	2024/04/25 15:23:47 [::1]:64246 - HTTP/2.0 GET /static/img/logo.png
+INFO	2024/04/25 15:23:47 [::1]:64246 - HTTP/2.0 GET /static/img/beauty_salon.jpg
+INFO	2024/04/25 15:23:47 [::1]:64246 - HTTP/2.0 GET /static/img/products.jpg
+INFO	2024/04/25 15:23:47 [::1]:64246 - HTTP/2.0 GET /static/img/consult.jpg
+INFO	2024/04/25 15:23:47 [::1]:64246 - HTTP/2.0 GET /static/img/logo.png
+ERROR	2024/04/26 01:24:16 server.go:3212: http: TLS handshake error from [::1]:57876: remote error: tls: unknown certificate
+INFO	2024/04/26 01:24:16 [::1]:57877 - HTTP/2.0 GET /
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/logo.png
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/js/main.js
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/daniar.jpg
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/nursultan.jpg
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/beauty_pro.jpg
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/temirlan.jpg
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/beauty_tools.jpg
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/beauty_tech.jpg
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/beauty_salon.jpg
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/26 01:24:17 [::1]:57877 - HTTP/2.0 GET /static/img/favicon.ico
+2024/04/26 08:34:35 
+
+---------------------------------
+
+INFO	2024/04/26 08:34:35 Starting server on :4000
+ERROR	2024/04/26 08:36:04 server.go:3212: http: TLS handshake error from [::1]:65022: remote error: tls: unknown certificate
+INFO	2024/04/26 08:36:04 [::1]:65023 - HTTP/2.0 GET /
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/css/main.css
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/img/logo.png
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/js/main.js
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/img/daniar.jpg
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/img/nursultan.jpg
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/img/temirlan.jpg
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/img/beauty_tools.jpg
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/img/beauty_pro.jpg
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/img/beauty_tech.jpg
+INFO	2024/04/26 08:36:05 [::1]:65023 - HTTP/2.0 GET /static/img/beauty_salon.jpg
+INFO	2024/04/26 08:36:11 [::1]:65023 - HTTP/2.0 GET /
+INFO	2024/04/26 08:36:11 [::1]:65023 - HTTP/2.0 GET /static/img/favicon.ico
+INFO	2024/04/26 08:36:11 [::1]:65023 - HTTP/2.0 GET /static/img/favicon.ico
